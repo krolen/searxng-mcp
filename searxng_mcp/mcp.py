@@ -9,7 +9,7 @@ import random
 import logging
 from typing import Optional, Dict, List, Union, Any
 
-from eunomia_mcp.middleware import EunomiaMcpMiddleware
+# from eunomia_mcp.middleware import EunomiaMcpMiddleware
 from starlette.requests import Request
 from starlette.responses import JSONResponse
 from pydantic import Field

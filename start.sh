@@ -1,0 +1,1 @@
+SEARXNG_INSTANCE_URL=http://192.168.0.100:8089 searxng-mcp --transport streamable-http --host 0.0.0.0 --port 7100
